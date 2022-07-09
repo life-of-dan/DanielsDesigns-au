@@ -1,15 +1,21 @@
 # 👋 Hi, I’m @DanielsDesigns-au
+## 📦 Personal npm Packages
+  - [ez-next](https://github.com/DanielsDesigns-au/ez-next)
+  - [ez-scss](https://github.com/DanielsDesigns-au/ez-scss)
+  - [ez-react-lib](https://github.com/DanielsDesigns-au/ez-react-lib)
+
 ## 👀 Fav tech toolbelt
-  - Node.js 💻
-  - Next.js ✅
+  - Node JS 💻 (Also love Bun ⚡️)
+  - Next JS Framework ✅
   - React/React Native 📱
-  - OpenAI (I am currently part of the open beta) 🤖
   - GraphQL 📊
   - Docker 🐳
 
-## 🌱 I’m currently learning
+## 🧠 Have some knowledge of
   - Web3 🤯
-  - Vite
+
+## 🌱 I’m currently learning/interested in
+  - Ecommerce such as Stripe API
 ## 💞️ I’m looking to collaborate on
   - Any interesting ideas 💡
   - I love all working with other passionate coders 😍
