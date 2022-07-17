@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daniel or [`life-of-dan`](github.com/life-of-dan)
+# 👋 Hi, I’m Daniel or [`life-of-dan`](/)
 
 ## 📦 Personal npm Packages
 
