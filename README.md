@@ -2,19 +2,23 @@
 <img src="https://ik.imagekit.io/itcq0tx3wh/Random/github-cover-small_iI3XvxZMV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658036645168" alt="git-cover" height="200"/>
 </p>
 <h1 align="center">
-# 👋 Hi, I’m Daniel or
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Daniel a.k.a.
  <a href="https://github.com/life-of-dan" target="_blank">
 <code>life-of-dan</code>
 </a>
 </h1>
 
-## 📦 Personal npm Packages
+<h2 align="center">📦 Personal npm Packages</h2>
 
-| Name                                                          | Install Script       |
-| ------------------------------------------------------------- | -------------------- |
-| [`ez-next`](https://github.com/life-of-dan/ez-next)           | `npm i ez-next`      |
-| [`ez-sass`](https://github.com/life-of-dan/ez-sass)           | `npm i ez-sass`      |
+<p align="center">
+
+|                             Name                              |    Install Script    |
+| :-----------------------------------------------------------: | :------------------: |
+|      [`ez-next`](https://github.com/life-of-dan/ez-next)      |   `npm i ez-next`    |
+|      [`ez-sass`](https://github.com/life-of-dan/ez-sass)      |   `npm i ez-sass`    |
 | [`ez-react-lib`](https://github.com/life-of-dan/ez-react-lib) | `npm i ez-react-lib` |
+
+</p>
 
 ## 🛠 Fav tech toolbelt
 
