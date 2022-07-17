@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ik.imagekit.io/itcq0tx3wh/Random/github-cover_D6zQNCy8Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658034935134" alt="git-cover" height="400"/>
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/github-cover-small_iI3XvxZMV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658036645168" alt="git-cover" height="200"/>
 </p>
 <h1 align="center">
 # 👋 Hi, I’m Daniel or
