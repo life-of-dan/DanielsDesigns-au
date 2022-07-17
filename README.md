@@ -1,26 +1,34 @@
-# 👋 Hi, I’m Daniel or [`life-of-dan`](/)
+<p align="center">
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/github-cover_D6zQNCy8Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658034935134" alt="git-cover" height="400"/>
+</p>
+<h1 align="center">
+# 👋 Hi, I’m Daniel or
+ <a href="https://github.com/life-of-dan" target="_blank">
+<code>life-of-dan</code>
+</a>
+</h1>
 
 ## 📦 Personal npm Packages
 
-- [ez-next](https://github.com/life-of-dan/ez-next)
-- [ez-sass](https://github.com/life-of-dan/ez-sass)
-- [ez-react-lib](https://github.com/life-of-dan/ez-react-lib)
+| Name                                                          | Install Script       |
+| ------------------------------------------------------------- | -------------------- |
+| [`ez-next`](https://github.com/life-of-dan/ez-next)           | `npm i ez-next`      |
+| [`ez-sass`](https://github.com/life-of-dan/ez-sass)           | `npm i ez-sass`      |
+| [`ez-react-lib`](https://github.com/life-of-dan/ez-react-lib) | `npm i ez-react-lib` |
 
-## 👀 Fav tech toolbelt
+## 🛠 Fav tech toolbelt
 
-- Node JS 💻 (Also love Bun ⚡️)
-- Next JS ✅
+- Node.js 💻 (Also love Bun ⚡️)
+- Next.js ✅
 - React ⚛
 - GraphQL 📊
+- MongoDB 🍃
 
 ## 🧠 Have some knowledge of
-
-### Topics
 
 - Python
 - Php 🐘
 - Web3 🤯
-
 - Docker 🐳
 - React Native 📱
 - Prisma △
