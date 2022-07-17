@@ -1,14 +1,32 @@
 <p align="center">
-<img src="https://ik.imagekit.io/itcq0tx3wh/Random/github-cover-small_iI3XvxZMV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658036645168" alt="git-cover" height="200"/>
+<a href="https://github.com/life-of-dan" target="_blank">
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/git_tag_6eDwUSRgX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041658946" alt="git-cover" height="50"/>
+</a>
+<a href="https://www.linkedin.com/in/life-of-dan/" target="_blank">
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/linkedin_tag_fE8UMKlVVI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041659205" alt="git-cover" height="50"/>
+</a>
+<a href="https://twitter.com/daniel_dev_" target="_blank">
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/twitter_tag_H6a2ZRK-S.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041659533" alt="git-cover" height="50"/>
+</a>
+<a href="https://www.figma.com/@life_of_dan" target="_blank">
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/figma_tag_rV01NK7DQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041658855" alt="git-cover" height="50"/>
+</a>
 </p>
+
+<p align="center">
+<a href="https://devclothing.com.au" target="_blank">
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/dev_clothing_rdYabaHX2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041658851" alt="git-cover" height="30"/>
+</a>
+</p>
+
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Daniel a.k.a.
+<strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Daniel a.k.a.
  <a href="https://github.com/life-of-dan" target="_blank">
 <code>life-of-dan</code>
-</a>
+</a></strong>
 </h1>
 
-<h2 align="center">📦 Personal npm Packages</h2>
+<h2 align="center"><strong>📦 Personal npm Packages</strong></h2>
 
 <p align="center">
 
@@ -20,35 +38,35 @@
 
 </p>
 
-## 🛠 Fav tech toolbelt
+<h2 align="center"><strong>🛠 Fav tech toolbelt</strong></h2>
 
-- Node.js 💻 (Also love Bun ⚡️)
-- Next.js ✅
-- React ⚛
-- GraphQL 📊
-- MongoDB 🍃
+<h3 align="center"><i>Node.js 💻 (Also love Bun ⚡️)</i></h3>
+<h3 align="center"><i>Next.js </i>✅</h3>
+<h3 align="center"><i>React </i>⚛</h3>
+<h3 align="center"><i>GraphQL </i>📊</h3>
+<h3 align="center"><i>MongoDB </i>🍃</h3>
 
-## 🧠 Have some knowledge of
+<h2 align="center"><strong>🧠 Have some knowledge of</strong></h2>
 
-- Python
-- Php 🐘
-- Web3 🤯
-- Docker 🐳
-- React Native 📱
-- Prisma △
+<h3 align="center"><i>Python </i>🐍</h3>
+<h3 align="center"><i>Php </i>🐘</h3>
+<h3 align="center"><i>Web3 </i>🤯</h3>
+<h3 align="center"><i>Docker </i>🐳</h3>
+<h3 align="center"><i>React Native </i>📱</h3>
+<h3 align="center"><i>Prisma </i>△</h3>
 
-## 🌱 I’m currently learning/interested in
+<h2 align="center"><strong>🌱 I’m currently learning/interested in</strong></h2>
 
-- Ecommerce such as Stripe API
+<h3 align="center"><i>Ecommerce such as Stripe API</i></h3>
 
-## 💞️ I’m looking to collaborate on
+<h2 align="center"><strong>💞️ I’m looking to collaborate on</strong></h2>
 
-- Any interesting ideas 💡
-- I love all working with other passionate coders 😍
+<h3 align="center"><i>Any interesting ideas</i> 💡</h3>
+<h3 align="center"><i>I love all working with other passionate coders</i> 😍</h3>
 
-## 📫 How to reach me
+<h2 align="center"><strong>📫 How to reach me</strong></h2>
 
-- Click [here](mailto:daniel@danielsdesigns.tech) to contact my work email 📮
+<h3 align="center"><i>Click [here](mailto:daniel@danielsdesigns.tech) to contact my work email</i> 📮</h3>
 
 <!---
 life-of-dan/life-of-dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
