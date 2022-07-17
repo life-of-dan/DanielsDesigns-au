@@ -28,15 +28,15 @@
 
 <h2 align="center"><strong>📦 Personal npm Packages</strong></h2>
 
-<p align="center">
-
+<div align="center">
+ 
 |                             Name                              |    Install Script    |
 | :-----------------------------------------------------------: | :------------------: |
 |      [`ez-next`](https://github.com/life-of-dan/ez-next)      |   `npm i ez-next`    |
 |      [`ez-sass`](https://github.com/life-of-dan/ez-sass)      |   `npm i ez-sass`    |
 | [`ez-react-lib`](https://github.com/life-of-dan/ez-react-lib) | `npm i ez-react-lib` |
-
-</p>
+ 
+</div>
 
 <h2 align="center"><strong>🛠 Fav tech toolbelt</strong></h2>
 
