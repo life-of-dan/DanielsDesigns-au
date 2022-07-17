@@ -66,7 +66,7 @@
 
 <h2 align="center"><strong>📫 How to reach me</strong></h2>
 
-<h3 align="center"><i>Click [here](mailto:daniel@danielsdesigns.tech) to contact my work email</i> 📮</h3>
+<h3 align="center"><i>Click <a href="mailto:daniel@danielsdesigns.tech">here</a> to contact my work email</i> 📮</h3>
 
 <!---
 life-of-dan/life-of-dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
