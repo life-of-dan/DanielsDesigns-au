@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/life-of-dan/" target="_blank">
 <img src="https://ik.imagekit.io/itcq0tx3wh/Random/linkedin_tag_fE8UMKlVVI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041659205" alt="git-cover" height="50"/>
 </a>
-<a href="https://twitter.com/daniel_dev_" target="_blank">
+<a href="https://twitter.com/life_of_dan_" target="_blank">
 <img src="https://ik.imagekit.io/itcq0tx3wh/Random/twitter_tag_H6a2ZRK-S.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041659533" alt="git-cover" height="50"/>
 </a>
 <a href="https://www.figma.com/@life_of_dan" target="_blank">
