@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://twitter.com/life_of_dan_" target="_blank">
+<a href="https://www.instagram.com/life.of.dan/" target="_blank">
 <img src="https://ik.imagekit.io/itcq0tx3wh/Random/2023-JAN/insta-tag_ta8xJ03UF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675874379718" alt="insta-tag" height="50"/>
 </a>
 <a href="https://github.com/life-of-dan" target="_blank">
