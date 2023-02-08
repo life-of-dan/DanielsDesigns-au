@@ -1,23 +1,23 @@
 <p align="center">
+<a href="https://twitter.com/life_of_dan_" target="_blank">
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/2023-JAN/insta-tag_ta8xJ03UF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675874379718" alt="insta-tag" height="50"/>
+</a>
 <a href="https://github.com/life-of-dan" target="_blank">
-<img src="https://ik.imagekit.io/itcq0tx3wh/Random/git_tag_6eDwUSRgX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041658946" alt="git-cover" height="50"/>
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/2023-JAN/git_tag_hM_HG3f50.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675874379410" alt="git-tag" height="50"/>
 </a>
 <a href="https://www.linkedin.com/in/life-of-dan/" target="_blank">
-<img src="https://ik.imagekit.io/itcq0tx3wh/Random/linkedin_tag_fE8UMKlVVI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041659205" alt="git-cover" height="50"/>
-</a>
-<a href="https://twitter.com/life_of_dan_" target="_blank">
-<img src="https://ik.imagekit.io/itcq0tx3wh/Random/twitter_tag_H6a2ZRK-S.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041659533" alt="git-cover" height="50"/>
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/2023-JAN/linkedin_tag_1JB2Eu-xac.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675874379777" alt="linkedin-tag" height="50"/>
 </a>
 <a href="https://www.figma.com/@life_of_dan" target="_blank">
-<img src="https://ik.imagekit.io/itcq0tx3wh/Random/figma_tag_rV01NK7DQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041658855" alt="git-cover" height="50"/>
+<img src="https://ik.imagekit.io/itcq0tx3wh/Random/2023-JAN/figma_tag_AGPt2phjM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675874379409" alt="figma-tag" height="50"/>
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://devclothing.com.au" target="_blank">
 <img src="https://ik.imagekit.io/itcq0tx3wh/Random/dev_clothing_rdYabaHX2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658041658851" alt="git-cover" height="30"/>
 </a>
-</p>
+</p> -->
 
 <h1 align="center">
 <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Daniel a.k.a.
@@ -44,20 +44,19 @@
 <h3 align="center"><i>Next.js </i>✅</h3>
 <h3 align="center"><i>React </i>⚛</h3>
 <h3 align="center"><i>GraphQL </i>📊</h3>
-<h3 align="center"><i>MongoDB </i>🍃</h3>
+<h3 align="center"><i>Php </i>🐘</h3>
 
-<h2 align="center"><strong>🧠 Have some knowledge of</strong></h2>
+<h2 align="center"><strong>🧠 Have knowledge of</strong></h2>
 
 <h3 align="center"><i>Python </i>🐍</h3>
-<h3 align="center"><i>Php </i>🐘</h3>
-<h3 align="center"><i>Web3 </i>🤯</h3>
+<h3 align="center"><i>MongoDB </i>🍃</h3>
+<h3 align="center"><i>Web3 (lmao)</i>🪙</h3>
 <h3 align="center"><i>Docker </i>🐳</h3>
 <h3 align="center"><i>React Native </i>📱</h3>
-<h3 align="center"><i>Prisma </i>△</h3>
 
 <h2 align="center"><strong>🌱 I’m currently learning/interested in</strong></h2>
 
-<h3 align="center"><i>Ecommerce such as Stripe API</i></h3>
+<h3 align="center"><i>Unity Game Development</i></h3>
 
 <h2 align="center"><strong>💞️ I’m looking to collaborate on</strong></h2>
 
