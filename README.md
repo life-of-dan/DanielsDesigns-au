@@ -21,9 +21,7 @@
 
 <h1 align="center">
 <strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m Daniel a.k.a.
- <a href="https://github.com/life-of-dan" target="_blank">
-<code>life-of-dan</code>
-</a></strong>
+ <a href="https://github.com/life-of-dan" target="_blank"><code>life-of-dan</code></a></strong>
 </h1>
 
 <h2 align="center"><strong>📦 Personal npm Packages</strong></h2>
@@ -40,23 +38,23 @@
 
 <h2 align="center"><strong>🛠 Fav tech toolbelt</strong></h2>
 
-<h3 align="center"><i>Node.js 💻 (Also love Bun ⚡️)</i></h3>
-<h3 align="center"><i>Next.js </i>✅</h3>
+<h3 align="center"><i>Node / Bun </i>💻</h3>
 <h3 align="center"><i>React </i>⚛</h3>
+<h3 align="center"><i>Next.js </i>✅</h3>
 <h3 align="center"><i>GraphQL </i>📊</h3>
 <h3 align="center"><i>Php </i>🐘</h3>
 
 <h2 align="center"><strong>🧠 Have knowledge of</strong></h2>
 
+<h3 align="center"><i>Docker </i>🐳</h3>
 <h3 align="center"><i>Python </i>🐍</h3>
 <h3 align="center"><i>MongoDB </i>🍃</h3>
-<h3 align="center"><i>Web3 (lmao)</i>🪙</h3>
-<h3 align="center"><i>Docker </i>🐳</h3>
-<h3 align="center"><i>React Native </i>📱</h3>
+<h3 align="center"><i>Web3 </i>🔐</h3>
+<h3 align="center"><i>Unity Game Development</i></h3>
 
 <h2 align="center"><strong>🌱 I’m currently learning/interested in</strong></h2>
 
-<h3 align="center"><i>Unity Game Development</i></h3>
+<h3 align="center"><i>React Native </i>📱</h3>
 
 <h2 align="center"><strong>💞️ I’m looking to collaborate on</strong></h2>
 
@@ -65,7 +63,7 @@
 
 <h2 align="center"><strong>📫 How to reach me</strong></h2>
 
-<h3 align="center"><i>Click <a href="mailto:daniel@danielsdesigns.tech">here</a> to contact my work email</i> 📮</h3>
+<h3 align="center">Click <a href="mailto:me@life-of-dan.dev">here</a> to contact my work email 📮</h3>
 
 <!---
 life-of-dan/life-of-dan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
